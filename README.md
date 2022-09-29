@@ -8,7 +8,7 @@ This is a template that you can use to start a react-native project in 2022 with
 
 ### Using Template 💻 💻 💻 💻 💻 
 Run this command to create a new react-native project using the template
-`npx react-native init $YourAppName --template https://github.com/daboigbae/react-native-template`
+`npx react-native init $YourAppName --template https://github.com/josesoft1/react-native-template`
 
 ** Make sure to replace $YourAppName with the name you want to give your project
 
